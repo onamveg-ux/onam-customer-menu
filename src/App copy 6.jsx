@@ -48,19 +48,8 @@ export default function OnamDashboard() {
   // --- STATE MANAGEMENT ---
   const [activeView, setActiveView] = useState('FOH'); 
   const [kdsViewMode, setKdsViewMode] = useState('tickets'); 
-  
-  // 1. UPDATE: Pull orders from localStorage to survive refreshes
-  const [orders, setOrders] = useState(() => {
-    const saved = localStorage.getItem('onam_orders');
-    return saved ? JSON.parse(saved) : [];
-  });
-
-  // 2. UPDATE: Pull current ticket from localStorage to survive refreshes
-  const [currentTicket, setCurrentTicket] = useState(() => {
-    const saved = localStorage.getItem('onam_current_ticket');
-    return saved ? JSON.parse(saved) : [];
-  });
-
+  const [orders, setOrders] = useState([]);
+  const [currentTicket, setCurrentTicket] = useState([]);
   const [tableNumber, setTableNumber] = useState('');
   const [currentTime, setCurrentTime] = useState(Date.now());
   
@@ -88,15 +77,6 @@ export default function OnamDashboard() {
   const CSV_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vT7iToziMLVb9Mrx7kWD3HkhTISA7ouA0f1M0f3UQu0z6L70oKB9dLOhoHP7iR9CY249qyiDU19KSgr/pub?output=csv';
 
   const dynamicCategories = ['All', ...new Set(menuItems.map(item => item.category))];
-
-  // 3. UPDATE: Auto-save hooks to push state changes to phone memory
-  useEffect(() => {
-    localStorage.setItem('onam_orders', JSON.stringify(orders));
-  }, [orders]);
-
-  useEffect(() => {
-    localStorage.setItem('onam_current_ticket', JSON.stringify(currentTicket));
-  }, [currentTicket]);
 
   // 1. System Clock
   useEffect(() => {
@@ -291,14 +271,10 @@ export default function OnamDashboard() {
     setOrders((prev) => [...prev, newOrder]);
     
     try {
-      // 4. UPDATE: Switched endpoint to Localtunnel and added the bypass header
-     await fetch('[https://happy-colts-cheer.loca.lt/api/orders](https://happy-colts-cheer.loca.lt/api/orders)', {
+      await fetch('http://localhost:3000/api/orders/foh', {
         method: 'POST',
-        headers: { 
-          'Content-Type': 'application/json',
-          'Bypass-Tunnel-Reminder': 'true' 
-        },
-        body: JSON.stringify({ table: parsedTable, cartData: currentTicket, totalAmount })
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ table: parsedTable, items: currentTicket, totalAmount })
       });
     } catch (e) {
       console.warn("Backend disconnected. Order saved locally only.", e);

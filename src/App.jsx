@@ -194,9 +194,12 @@ export default function OnamDashboard() {
   // --- API INTEGRATIONS (Node.js Backend) ---
   const printReceipt = async (orderData, printType) => {
     try {
-      await fetch('http://localhost:3000/api/print/receipt', {
+      await fetch('https://shiny-lines-sing.loca.lt/api/print/receipt', {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
+        headers: { 
+          'Content-Type': 'application/json',
+          'Bypass-Tunnel-Reminder': 'true'
+        },
         body: JSON.stringify({ ...orderData, type: printType })
       });
       alert('Sent to printer!');
@@ -208,7 +211,9 @@ export default function OnamDashboard() {
 
   const fetchDayWiseSummary = async () => {
     try {
-      const response = await fetch('http://localhost:3000/api/reports/day-wise');
+      const response = await fetch('https://shiny-lines-sing.loca.lt/api/reports/day-wise', {
+        headers: { 'Bypass-Tunnel-Reminder': 'true' }
+      });
       const data = await response.json();
       
       if (response.ok && data.success) {
@@ -289,22 +294,21 @@ export default function OnamDashboard() {
     };
 
     setOrders((prev) => [...prev, newOrder]);
-    
+    setCurrentTicket([]);
+    setTableNumber('');
+
     try {
-      // Pointing directly to your local Windows POS backend server
-      await fetch('http://192.168.29.131:5005/api/orders', {
+      await fetch('https://shiny-lines-sing.loca.lt/api/orders', {
         method: 'POST',
         headers: { 
-          'Content-Type': 'application/json'
+          'Content-Type': 'application/json',
+          'Bypass-Tunnel-Reminder': 'true'
         },
-        body: JSON.stringify({ table: parsedTable, cartData: currentTicket, totalAmount })
+        body: JSON.stringify({ table: parsedTable, cartData: newOrder.items, totalAmount })
       });
     } catch (e) {
       console.warn("Backend disconnected. Order saved locally only.", e);
     }
-
-    setCurrentTicket([]);
-    setTableNumber('');
   };
 
   const updateOrderStatus = (orderId, newStatus) => setOrders((prev) => prev.map((order) => (order.id === orderId ? { ...order, status: newStatus } : order)));

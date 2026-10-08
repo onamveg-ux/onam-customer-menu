@@ -291,11 +291,11 @@ export default function OnamDashboard() {
     setOrders((prev) => [...prev, newOrder]);
     
     try {
-      // 4. UPDATE: Switched endpoint to Localtunnel and added the bypass header
-await fetch('http://192.168.29.131:5005/api/orders', {        method: 'POST',
+      // Pointing directly to your local Windows POS backend server
+      await fetch('http://192.168.29.131:5005/api/orders', {
+        method: 'POST',
         headers: { 
-          'Content-Type': 'application/json',
-          'Bypass-Tunnel-Reminder': 'true' 
+          'Content-Type': 'application/json'
         },
         body: JSON.stringify({ table: parsedTable, cartData: currentTicket, totalAmount })
       });

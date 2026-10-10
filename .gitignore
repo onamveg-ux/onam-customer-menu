@@ -28,3 +28,5 @@ dist-ssr
 !.env.example
 menu-source.csv
 *-preview.png
+
+image-contact-sheet.png

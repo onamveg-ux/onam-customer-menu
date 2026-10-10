@@ -5,7 +5,7 @@
     "category": "Rice & Biriyani",
     "description": "Fragrant basmati rice",
     "price_paise": 15000,
-    "image": "assets/biryaniveg.webp",
+    "image": "images/biryaniveg.webp",
     "active": true
   },
   {
@@ -14,7 +14,7 @@
     "category": "Dosa",
     "description": "Crispy rice crepe with potato",
     "price_paise": 9000,
-    "image": "assets/masaladosa.webp",
+    "image": "images/masaladosa.webp",
     "active": true
   },
   {
@@ -32,7 +32,7 @@
     "category": "Idli/Puttu",
     "description": "Steamed rice cakes",
     "price_paise": 6000,
-    "image": "assets/idliset.webp",
+    "image": "images/idliesambar.webp",
     "active": true
   },
   {
@@ -50,7 +50,7 @@
     "category": "Curry",
     "description": "Rich tomato gravy",
     "price_paise": 22000,
-    "image": "assets/pbm.webp",
+    "image": "images/pbm.webp",
     "active": true
   },
   {
@@ -77,7 +77,7 @@
     "category": "Dosa",
     "description": "Crispy crepe stuffed with paneer",
     "price_paise": 13000,
-    "image": "assets/paneerdosa.webp",
+    "image": "images/paneerdosa.webp",
     "active": true
   },
   {
@@ -95,7 +95,7 @@
     "category": "Dosa",
     "description": "Thick savory rice pancake",
     "price_paise": 10000,
-    "image": null,
+    "image": "images/uthappam.webp",
     "active": true
   },
   {
@@ -104,7 +104,7 @@
     "category": "Dosa",
     "description": "Crispy crepe coated with spicy podi",
     "price_paise": 12000,
-    "image": null,
+    "image": "images/podidosa.webp",
     "active": true
   },
   {
@@ -122,7 +122,7 @@
     "category": "Dosa",
     "description": "Crispy rice crepe roasted in ghee",
     "price_paise": 8000,
-    "image": "assets/gheeroast.webp",
+    "image": "images/gheeroast.webp",
     "active": true
   },
   {
@@ -176,7 +176,7 @@
     "category": "Dosa",
     "description": "Three small dosas served with vada",
     "price_paise": 7500,
-    "image": null,
+    "image": "images/setdosa.webp",
     "active": true
   },
   {
@@ -203,7 +203,7 @@
     "category": "Idli/Puttu",
     "description": "Steamed rice cakes served with sambar",
     "price_paise": 6000,
-    "image": null,
+    "image": "images/idliset.webp",
     "active": true
   },
   {
@@ -212,7 +212,7 @@
     "category": "Idli/Puttu",
     "description": "Steamed delicate rice string hoppers",
     "price_paise": 1500,
-    "image": null,
+    "image": "images/idiyapam.webp",
     "active": true
   },
   {
@@ -239,7 +239,7 @@
     "category": "Beverages",
     "description": "Freshly brewed hot milk tea",
     "price_paise": 2000,
-    "image": "assets/chai.webp",
+    "image": "images/chai.webp",
     "active": true
   },
   {
@@ -275,7 +275,7 @@
     "category": "Breads",
     "description": "Layered flaky flatbread",
     "price_paise": 2500,
-    "image": null,
+    "image": "images/porotta.webp",
     "active": true
   },
   {
@@ -311,7 +311,7 @@
     "category": "Idli/Puttu",
     "description": "Steamed rice noodles served with curry",
     "price_paise": 8500,
-    "image": "assets/idiyappamwcurry.webp",
+    "image": "images/idiyappamwcurry.webp",
     "active": true
   },
   {
@@ -320,7 +320,7 @@
     "category": "Dosa",
     "description": "Thick savory pancake topped with veggies and tomatoes",
     "price_paise": 11000,
-    "image": null,
+    "image": "images/uthappam.webp",
     "active": true
   },
   {
@@ -347,7 +347,7 @@
     "category": "Chinese",
     "description": "Stir-fried noodles with fresh vegetables",
     "price_paise": 12500,
-    "image": null,
+    "image": "images/vegnoodles.webp",
     "active": true
   },
   {
@@ -419,7 +419,7 @@
     "category": "Chinese",
     "description": "Fiery wok-tossed rice with schezwan spices",
     "price_paise": 14000,
-    "image": null,
+    "image": "images/shezwanfriedrice.webp",
     "active": true
   },
   {
@@ -428,7 +428,7 @@
     "category": "Chinese",
     "description": "Classic wok-tossed rice with vegetables",
     "price_paise": 12500,
-    "image": null,
+    "image": "images/friedrice.webp",
     "active": true
   },
   {
@@ -437,7 +437,7 @@
     "category": "Rice & Biriyani",
     "description": "Zesty tempered rice infused with lemon and mustard seeds",
     "price_paise": 12000,
-    "image": "assets/lemonrice.webp",
+    "image": "images/lemonrice.webp",
     "active": true
   },
   {
@@ -446,7 +446,7 @@
     "category": "Rice & Biriyani",
     "description": "Cooling yogurt rice tempered with mustard and curry leaves",
     "price_paise": 12000,
-    "image": "assets/curdrice.webp",
+    "image": "images/curdrice.webp",
     "active": true
   },
   {
@@ -455,7 +455,7 @@
     "category": "Rice & Biriyani",
     "description": "Fragrant basmati rice tempered with cumin seeds",
     "price_paise": 12000,
-    "image": null,
+    "image": "images/jeerarice.webp",
     "active": true
   },
   {
@@ -464,7 +464,7 @@
     "category": "Rice & Biriyani",
     "description": "Tangy spiced rice cooked with ripe tomatoes",
     "price_paise": 13000,
-    "image": "assets/tomatorice.webp",
+    "image": "images/tomatorice.webp",
     "active": true
   },
   {
@@ -491,7 +491,7 @@
     "category": "Rice & Biriyani",
     "description": "Layered spiced basmati rice with marinated paneer",
     "price_paise": 22000,
-    "image": null,
+    "image": "images/paneerbiryani.webp",
     "active": true
   },
   {
@@ -509,7 +509,7 @@
     "category": "Breads",
     "description": "Whole wheat flatbread stuffed with spiced potatoes",
     "price_paise": 11000,
-    "image": "assets/alooparatha.webp",
+    "image": "images/alooparatha.webp",
     "active": true
   },
   {
@@ -527,7 +527,7 @@
     "category": "Breads",
     "description": "Whole wheat flatbread stuffed with spiced grated paneer",
     "price_paise": 15000,
-    "image": "assets/paneerparatha.webp",
+    "image": "images/paneerparatha.webp",
     "active": true
   },
   {
@@ -536,7 +536,7 @@
     "category": "Poori",
     "description": "Puffy fried whole wheat bread served with potato bhaji",
     "price_paise": 10000,
-    "image": null,
+    "image": "images/purimasala.webp",
     "active": true
   },
   {
@@ -590,7 +590,7 @@
     "category": "Curry",
     "description": "Cottage cheese cubes in rich buttery tomato gravy",
     "price_paise": 18000,
-    "image": "assets/pbm.webp",
+    "image": "images/pbm.webp",
     "active": true
   },
   {
@@ -599,7 +599,7 @@
     "category": "Curry",
     "description": "Deep-fried crispy spicy cottage cheese cubes",
     "price_paise": 20000,
-    "image": "assets/paneer65.webp",
+    "image": "images/paneer65.webp",
     "active": true
   },
   {
@@ -608,7 +608,7 @@
     "category": "Chinese",
     "description": "Crispy cauliflower florets in tangy garlic soya sauce",
     "price_paise": 12000,
-    "image": "assets/gobiman.webp",
+    "image": "images/gobiman.webp",
     "active": true
   },
   {
@@ -635,7 +635,7 @@
     "category": "Curry",
     "description": "Tender mushrooms cooked in a rich onion-tomato masala",
     "price_paise": 20000,
-    "image": "assets/mushroommasala.webp",
+    "image": "images/mushroommasala.webp",
     "active": true
   },
   {
@@ -644,7 +644,7 @@
     "category": "Curry",
     "description": "Tangy spiced sautéed tomato masala",
     "price_paise": 12000,
-    "image": "assets/tomatofry.webp",
+    "image": "images/tomatofry.webp",
     "active": true
   },
   {
@@ -653,7 +653,7 @@
     "category": "Curry",
     "description": "Yellow lentils tempered with aromatic cumin, garlic, and ghee",
     "price_paise": 11000,
-    "image": "assets/dalfry.webp",
+    "image": "images/dalfry.webp",
     "active": true
   },
   {
@@ -662,7 +662,7 @@
     "category": "Curry",
     "description": "Traditional black chickpeas simmered in roasted coconut gravy",
     "price_paise": 5000,
-    "image": "assets/kadala.webp",
+    "image": "images/kadala.webp",
     "active": true
   },
   {
@@ -680,7 +680,7 @@
     "category": "Curry",
     "description": "Crispy battered cauliflower florets spiced to perfection",
     "price_paise": 15000,
-    "image": "assets/gobi65.webp",
+    "image": "images/gobi65.webp",
     "active": true
   },
   {
@@ -761,7 +761,7 @@
     "category": "Beverages",
     "description": "Traditional hot brewed milk tea",
     "price_paise": 2000,
-    "image": "assets/chai.webp",
+    "image": "images/chai.webp",
     "active": true
   },
   {
@@ -869,7 +869,7 @@
     "category": "Rice & Biriyani",
     "description": "Traditional Kerala vegetarian feast served with rice and curries",
     "price_paise": 13000,
-    "image": null,
+    "image": "images/sadhya.webp",
     "active": true
   },
   {
@@ -878,7 +878,7 @@
     "category": "Rice & Biriyani",
     "description": "Traditional Kerala vegetarian feast served with fragrant basmati rice and curries",
     "price_paise": 18000,
-    "image": null,
+    "image": "images/sadhyabasmati.webp",
     "active": true
   }
 ]

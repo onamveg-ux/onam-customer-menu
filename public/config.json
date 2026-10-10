@@ -1,0 +1,6 @@
+{
+  "supabaseUrl": "",
+  "supabasePublishableKey": "",
+  "turnstileSiteKey": "",
+  "authChannel": "phone"
+}

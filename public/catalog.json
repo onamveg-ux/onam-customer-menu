@@ -1,0 +1,884 @@
+[
+  {
+    "id": "14d3dce86be72802272f",
+    "name": "Veg Biriyani",
+    "category": "Rice & Biriyani",
+    "description": "Fragrant basmati rice",
+    "price_paise": 15000,
+    "image": "assets/biryaniveg.webp",
+    "active": true
+  },
+  {
+    "id": "b08c1838f89c7b315b43",
+    "name": "Masala Dosa",
+    "category": "Dosa",
+    "description": "Crispy rice crepe with potato",
+    "price_paise": 9000,
+    "image": "assets/masaladosa.webp",
+    "active": true
+  },
+  {
+    "id": "1ef3219fc1f2a1c93eb7",
+    "name": "Filter Coffee",
+    "category": "Beverages",
+    "description": "Traditional strong coffee",
+    "price_paise": 4000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "812baa9be8e90e256762",
+    "name": "Idli Sambar",
+    "category": "Idli/Puttu",
+    "description": "Steamed rice cakes",
+    "price_paise": 6000,
+    "image": "assets/idliset.webp",
+    "active": true
+  },
+  {
+    "id": "cec89b528698cf6eec64",
+    "name": "Medu Vada",
+    "category": "Idli/Puttu",
+    "description": "Crispy lentil donuts",
+    "price_paise": 5000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "3c6adf11a53bf6b26425",
+    "name": "Paneer Butter Masala",
+    "category": "Curry",
+    "description": "Rich tomato gravy",
+    "price_paise": 22000,
+    "image": "assets/pbm.webp",
+    "active": true
+  },
+  {
+    "id": "4cebd0d429bc346b2fb6",
+    "name": "Ghee Masala Dosa",
+    "category": "Dosa",
+    "description": "Crispy ghee crepe with potato",
+    "price_paise": 11000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "38f8c1f4e1899885984f",
+    "name": "Plain Roast",
+    "category": "Dosa",
+    "description": "Crispy golden plain rice crepe",
+    "price_paise": 6000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "e5c606208425e196bc07",
+    "name": "Paneer Dosa",
+    "category": "Dosa",
+    "description": "Crispy crepe stuffed with paneer",
+    "price_paise": 13000,
+    "image": "assets/paneerdosa.webp",
+    "active": true
+  },
+  {
+    "id": "09b65a48378c774add08",
+    "name": "Butter Dosa",
+    "category": "Dosa",
+    "description": "Crispy rice crepe topped with butter",
+    "price_paise": 12000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "28a44239c7e930ca3796",
+    "name": "Uttappam",
+    "category": "Dosa",
+    "description": "Thick savory rice pancake",
+    "price_paise": 10000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "9ab4a6f553d7eaeac615",
+    "name": "Podi Dosa",
+    "category": "Dosa",
+    "description": "Crispy crepe coated with spicy podi",
+    "price_paise": 12000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "a5facd77283e32fe77ef",
+    "name": "Dosa Single",
+    "category": "Dosa",
+    "description": "Single traditional plain rice crepe",
+    "price_paise": 1500,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "a8a54c7c0208c42d90d4",
+    "name": "Ghee Roast",
+    "category": "Dosa",
+    "description": "Crispy rice crepe roasted in ghee",
+    "price_paise": 8000,
+    "image": "assets/gheeroast.webp",
+    "active": true
+  },
+  {
+    "id": "8baff2761797b2037b8d",
+    "name": "Cheese Dosa",
+    "category": "Dosa",
+    "description": "Crispy crepe stuffed with melted cheese",
+    "price_paise": 13000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "320b064fca92e9982c46",
+    "name": "Podi Masala Dosa",
+    "category": "Dosa",
+    "description": "Spiced podi crepe with potato filling",
+    "price_paise": 13000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "5cb9708b5524223815dc",
+    "name": "Paneer Masala Dosa",
+    "category": "Dosa",
+    "description": "Crispy crepe with paneer and potato",
+    "price_paise": 16000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "2662edeab0a12f35ece1",
+    "name": "Podi Uttappam",
+    "category": "Dosa",
+    "description": "Thick pancake topped with spiced podi",
+    "price_paise": 10000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "cc5a78df80d3457dee0a",
+    "name": "Ghee Uttappam",
+    "category": "Dosa",
+    "description": "Thick savory pancake cooked in ghee",
+    "price_paise": 10000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "70c43460265c25f15064",
+    "name": "3 Dosa with Vada",
+    "category": "Dosa",
+    "description": "Three small dosas served with vada",
+    "price_paise": 7500,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "2d8f5cfe2a10931761e0",
+    "name": "Mushroom Masala Dosa",
+    "category": "Dosa",
+    "description": "Crispy crepe with spiced mushrooms",
+    "price_paise": 17000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "68f4e108a030380caca6",
+    "name": "Ghee Podi Masala",
+    "category": "Dosa",
+    "description": "Ghee roast crepe with spicy podi and potato",
+    "price_paise": 14500,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "4f78918362fe6fc01be9",
+    "name": "Idli Set",
+    "category": "Idli/Puttu",
+    "description": "Steamed rice cakes served with sambar",
+    "price_paise": 6000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "687435e10ffb030daee5",
+    "name": "Idiyappam",
+    "category": "Idli/Puttu",
+    "description": "Steamed delicate rice string hoppers",
+    "price_paise": 1500,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "d587ab1fb9b0da82dc2f",
+    "name": "Puttu",
+    "category": "Idli/Puttu",
+    "description": "Steamed layered rice flour cake",
+    "price_paise": 4000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "012a090fd7318e9ddecb",
+    "name": "Chemba Puttu",
+    "category": "Idli/Puttu",
+    "description": "Steamed red rice flour cake",
+    "price_paise": 5500,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "81e22e3441b4f7c0e312",
+    "name": "Tea",
+    "category": "Beverages",
+    "description": "Freshly brewed hot milk tea",
+    "price_paise": 2000,
+    "image": "assets/chai.webp",
+    "active": true
+  },
+  {
+    "id": "0760705ac45b7f190b8e",
+    "name": "Black Tea",
+    "category": "Beverages",
+    "description": "Freshly brewed hot black tea",
+    "price_paise": 1500,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "1049494979038034f010",
+    "name": "Coffee",
+    "category": "Beverages",
+    "description": "Freshly brewed hot coffee",
+    "price_paise": 2000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "08feefb9fc934f8e2fe1",
+    "name": "Black Coffee",
+    "category": "Beverages",
+    "description": "Freshly brewed hot black coffee",
+    "price_paise": 1500,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "07bc84842b95879556fb",
+    "name": "Parotta",
+    "category": "Breads",
+    "description": "Layered flaky flatbread",
+    "price_paise": 2500,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "083bd07e358635f74df8",
+    "name": "Chapati",
+    "category": "Breads",
+    "description": "Soft whole wheat flatbread",
+    "price_paise": 2000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "5611c8b614a4429beaed",
+    "name": "Appam",
+    "category": "Breads",
+    "description": "Soft fermented rice pancake",
+    "price_paise": 2000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "ac4704c70792faea16b7",
+    "name": "Idli Single",
+    "category": "Idli/Puttu",
+    "description": "Single steamed fluffy rice cake",
+    "price_paise": 1500,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "1ba6de5910ea05c211b5",
+    "name": "Idiyappam Set",
+    "category": "Idli/Puttu",
+    "description": "Steamed rice noodles served with curry",
+    "price_paise": 8500,
+    "image": "assets/idiyappamwcurry.webp",
+    "active": true
+  },
+  {
+    "id": "c77ba8814c4359c72fc6",
+    "name": "Tomato Mix Veg Uttappam",
+    "category": "Dosa",
+    "description": "Thick savory pancake topped with veggies and tomatoes",
+    "price_paise": 11000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "453bcc3504e0ee96f554",
+    "name": "Ghee Podi Idli",
+    "category": "Idli/Puttu",
+    "description": "Steamed rice cakes tossed in ghee and spiced podi",
+    "price_paise": 8000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "b074790cf0cc0dd27078",
+    "name": "Schezwan Paneer Dosa",
+    "category": "Dosa",
+    "description": "Spicy Indo-Chinese crepe filled with paneer",
+    "price_paise": 15000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "8f60808057cba3dd5799",
+    "name": "Noodles",
+    "category": "Chinese",
+    "description": "Stir-fried noodles with fresh vegetables",
+    "price_paise": 12500,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "23becb73f83ed66dd85e",
+    "name": "Paneer Fried Rice",
+    "category": "Chinese",
+    "description": "Wok-tossed basmati rice with spiced paneer cubes",
+    "price_paise": 20000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "b0b999ba13b32e5dd929",
+    "name": "Paneer Noodles",
+    "category": "Chinese",
+    "description": "Stir-fried noodles tossed with soft paneer cubes",
+    "price_paise": 21000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "9ef2356176934d53e756",
+    "name": "Mushroom Pepper Fry",
+    "category": "Chinese",
+    "description": "Tender mushrooms tossed in freshly crushed black pepper",
+    "price_paise": 18000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "fbec42b6ae02669c12dc",
+    "name": "Schezwan Noodles",
+    "category": "Chinese",
+    "description": "Spicy stir-fried noodles with fiery schezwan sauce",
+    "price_paise": 15000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "cce0816a73426e52c6df",
+    "name": "Paneer Pepper Fry",
+    "category": "Chinese",
+    "description": "Cottage cheese cubes tossed in spicy black pepper",
+    "price_paise": 18000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "bd0f73bd13df976d2a90",
+    "name": "Mixed Fried Rice",
+    "category": "Chinese",
+    "description": "Aromatic fried rice loaded with mixed vegetables",
+    "price_paise": 20000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "0eaaf51ebd8fe8fee81d",
+    "name": "Paneer Manchurian",
+    "category": "Chinese",
+    "description": "Crispy paneer cubes in tangy Indo-Chinese sauce",
+    "price_paise": 14000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "18f857e43d6b1aadfda4",
+    "name": "Schezwan Fried Rice",
+    "category": "Chinese",
+    "description": "Fiery wok-tossed rice with schezwan spices",
+    "price_paise": 14000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "1312b49bb29afc34532c",
+    "name": "Fried Rice",
+    "category": "Chinese",
+    "description": "Classic wok-tossed rice with vegetables",
+    "price_paise": 12500,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "d40b3cc946e0e2c58e26",
+    "name": "Lemon Rice",
+    "category": "Rice & Biriyani",
+    "description": "Zesty tempered rice infused with lemon and mustard seeds",
+    "price_paise": 12000,
+    "image": "assets/lemonrice.webp",
+    "active": true
+  },
+  {
+    "id": "b269859fe668137679f7",
+    "name": "Curd Rice",
+    "category": "Rice & Biriyani",
+    "description": "Cooling yogurt rice tempered with mustard and curry leaves",
+    "price_paise": 12000,
+    "image": "assets/curdrice.webp",
+    "active": true
+  },
+  {
+    "id": "78127edde51d43ba8a48",
+    "name": "Jeera Rice",
+    "category": "Rice & Biriyani",
+    "description": "Fragrant basmati rice tempered with cumin seeds",
+    "price_paise": 12000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "8e878c1d3964bc0dda7a",
+    "name": "Tomato Rice",
+    "category": "Rice & Biriyani",
+    "description": "Tangy spiced rice cooked with ripe tomatoes",
+    "price_paise": 13000,
+    "image": "assets/tomatorice.webp",
+    "active": true
+  },
+  {
+    "id": "1614ed0bbec8d184a1b2",
+    "name": "White Rice",
+    "category": "Rice & Biriyani",
+    "description": "Steamed plain rice",
+    "price_paise": 5000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "3059d3296d77bb572094",
+    "name": "Mushroom Fried Rice",
+    "category": "Rice & Biriyani",
+    "description": "Wok-tossed rice with sautéed mushrooms",
+    "price_paise": 22000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "0ab35b75b98ddb1ee749",
+    "name": "Paneer Biriyani",
+    "category": "Rice & Biriyani",
+    "description": "Layered spiced basmati rice with marinated paneer",
+    "price_paise": 22000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "6ea36c665c2f6eb6e905",
+    "name": "Mushroom Biriyani",
+    "category": "Rice & Biriyani",
+    "description": "Fragrant spiced basmati rice cooked with tender mushrooms",
+    "price_paise": 22000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "fc9a656fef547682bd8f",
+    "name": "Aloo Paratha",
+    "category": "Breads",
+    "description": "Whole wheat flatbread stuffed with spiced potatoes",
+    "price_paise": 11000,
+    "image": "assets/alooparatha.webp",
+    "active": true
+  },
+  {
+    "id": "5ff55f8b086fa7a11ff6",
+    "name": "Cheese Paratha",
+    "category": "Breads",
+    "description": "Warm flatbread stuffed with melted cheese",
+    "price_paise": 15000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "e6556d2fc6a67744e2a8",
+    "name": "Paneer Paratha",
+    "category": "Breads",
+    "description": "Whole wheat flatbread stuffed with spiced grated paneer",
+    "price_paise": 15000,
+    "image": "assets/paneerparatha.webp",
+    "active": true
+  },
+  {
+    "id": "52d417fcc5cdc4f2452e",
+    "name": "Poori Bhaji",
+    "category": "Poori",
+    "description": "Puffy fried whole wheat bread served with potato bhaji",
+    "price_paise": 10000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "4fc335b9f3af9828efbf",
+    "name": "Chilli Parotta",
+    "category": "Breads",
+    "description": "Shredded flaky parotta tossed in spicy chilli sauce",
+    "price_paise": 12000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "5a514dae4126e2747aac",
+    "name": "Cheese Masala Dosa",
+    "category": "Dosa",
+    "description": "Crispy rice crepe with spiced potato and melted cheese",
+    "price_paise": 14000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "709313885e4b9e2ac80e",
+    "name": "Kothu Parotta",
+    "category": "Breads",
+    "description": "Shredded layered parotta tossed with spiced vegetables",
+    "price_paise": 12000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "55403780c469a5499145",
+    "name": "Ghee Chapati",
+    "category": "Breads",
+    "description": "Soft whole wheat flatbread brushed with ghee",
+    "price_paise": 2000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "d78af7d38c1de4d34262",
+    "name": "Aloo Cheese Paratha",
+    "category": "Breads",
+    "description": "Stuffed flatbread with spiced potato and melted cheese",
+    "price_paise": 15000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "3c6adf11a53bf6b26425",
+    "name": "Paneer Butter Masala",
+    "category": "Curry",
+    "description": "Cottage cheese cubes in rich buttery tomato gravy",
+    "price_paise": 18000,
+    "image": "assets/pbm.webp",
+    "active": true
+  },
+  {
+    "id": "ec62ffdda909deedaa6a",
+    "name": "Paneer 65",
+    "category": "Curry",
+    "description": "Deep-fried crispy spicy cottage cheese cubes",
+    "price_paise": 20000,
+    "image": "assets/paneer65.webp",
+    "active": true
+  },
+  {
+    "id": "12d5fa62ef1dd30a0f9a",
+    "name": "Gobi Manchurian",
+    "category": "Chinese",
+    "description": "Crispy cauliflower florets in tangy garlic soya sauce",
+    "price_paise": 12000,
+    "image": "assets/gobiman.webp",
+    "active": true
+  },
+  {
+    "id": "2ab6a7ccc760e05ad31d",
+    "name": "Chilli Gobi",
+    "category": "Chinese",
+    "description": "Crispy cauliflower florets tossed in spicy chilli sauce",
+    "price_paise": 12000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "71a3e22f2a8681d0e846",
+    "name": "Aloo Jeera",
+    "category": "Curry",
+    "description": "Potatoes sautéed with roasted cumin seeds and spices",
+    "price_paise": 12500,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "f1ced2934b58de3e0ebf",
+    "name": "Mushroom Masala",
+    "category": "Curry",
+    "description": "Tender mushrooms cooked in a rich onion-tomato masala",
+    "price_paise": 20000,
+    "image": "assets/mushroommasala.webp",
+    "active": true
+  },
+  {
+    "id": "5dc0860a63b202b9af4d",
+    "name": "Tomato Fry",
+    "category": "Curry",
+    "description": "Tangy spiced sautéed tomato masala",
+    "price_paise": 12000,
+    "image": "assets/tomatofry.webp",
+    "active": true
+  },
+  {
+    "id": "e9246d44c080d0378c6a",
+    "name": "Dal Fry",
+    "category": "Curry",
+    "description": "Yellow lentils tempered with aromatic cumin, garlic, and ghee",
+    "price_paise": 11000,
+    "image": "assets/dalfry.webp",
+    "active": true
+  },
+  {
+    "id": "6ce65393b198f611169c",
+    "name": "Kadala Curry",
+    "category": "Curry",
+    "description": "Traditional black chickpeas simmered in roasted coconut gravy",
+    "price_paise": 5000,
+    "image": "assets/kadala.webp",
+    "active": true
+  },
+  {
+    "id": "1933cdf0c61b0f80c960",
+    "name": "Kurma Curry",
+    "category": "Curry",
+    "description": "Assorted vegetables cooked in mild coconut spice gravy",
+    "price_paise": 5000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "10eeb7fdf4050e1be1bf",
+    "name": "Gobi 65",
+    "category": "Curry",
+    "description": "Crispy battered cauliflower florets spiced to perfection",
+    "price_paise": 15000,
+    "image": "assets/gobi65.webp",
+    "active": true
+  },
+  {
+    "id": "6f71d537f0f34d2ff10d",
+    "name": "Sambar Bowl",
+    "category": "Curry",
+    "description": "Hearty lentil and vegetable stew flavored with tamarind",
+    "price_paise": 4000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "651ae20c233bf3fe796f",
+    "name": "Veg Kurma",
+    "category": "Curry",
+    "description": "Mixed vegetables simmered in creamy coconut gravy",
+    "price_paise": 5000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "a51bbcb12197dc459904",
+    "name": "Chilli Gobi Dry",
+    "category": "Chinese",
+    "description": "Crisp cauliflower florets tossed dry in chilli seasoning",
+    "price_paise": 14000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "8df87eca34f869d7dba7",
+    "name": "Chilli Paneer",
+    "category": "Chinese",
+    "description": "Paneer cubes tossed with peppers, onions, and spicy sauce",
+    "price_paise": 20000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "777e44bb3006d16fbe5f",
+    "name": "Aloo Gobi",
+    "category": "Curry",
+    "description": "Classic potato and cauliflower curry cooked with spices",
+    "price_paise": 13000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "24be144aae1138144364",
+    "name": "Gobi Fry",
+    "category": "Curry",
+    "description": "Crispy spiced fried cauliflower florets",
+    "price_paise": 13000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "5505fef155a7c5a25755",
+    "name": "Kadai Paneer",
+    "category": "Curry",
+    "description": "Paneer cooked with bell peppers in freshly ground kadai spices",
+    "price_paise": 21000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "11955d7f3d3a76ea3cfa",
+    "name": "Orange Juice",
+    "category": "Beverages",
+    "description": "Freshly squeezed chilled orange juice",
+    "price_paise": 7000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "81e22e3441b4f7c0e312",
+    "name": "Tea",
+    "category": "Beverages",
+    "description": "Traditional hot brewed milk tea",
+    "price_paise": 2000,
+    "image": "assets/chai.webp",
+    "active": true
+  },
+  {
+    "id": "1049494979038034f010",
+    "name": "Coffee",
+    "category": "Beverages",
+    "description": "Freshly brewed aromatic coffee",
+    "price_paise": 2500,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "0760705ac45b7f190b8e",
+    "name": "Black Tea",
+    "category": "Beverages",
+    "description": "Warm aromatic brewed black tea",
+    "price_paise": 1000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "cc2bb2ab9a0264e28a8f",
+    "name": "Boost",
+    "category": "Beverages",
+    "description": "Hot malted chocolate energy drink",
+    "price_paise": 2500,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "3ffc485215de5850677d",
+    "name": "Milk",
+    "category": "Beverages",
+    "description": "Fresh warm steamed milk",
+    "price_paise": 2500,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "d0b9fe8a948c58a930aa",
+    "name": "Lemon Tea",
+    "category": "Beverages",
+    "description": "Refreshing hot tea infused with fresh lemon",
+    "price_paise": 1500,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "632a8b20242aad184bef",
+    "name": "Horlicks",
+    "category": "Beverages",
+    "description": "Comforting warm malted milk beverage",
+    "price_paise": 2500,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "08feefb9fc934f8e2fe1",
+    "name": "Black Coffee",
+    "category": "Beverages",
+    "description": "Strong freshly brewed black coffee",
+    "price_paise": 1500,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "15a29643b43b00237d67",
+    "name": "ORANGE JUICE",
+    "category": "Beverages",
+    "description": "Freshly squeezed chilled orange juice",
+    "price_paise": 8000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "5b16a4b3401cc38edeb0",
+    "name": "GRAPE JUICE",
+    "category": "Beverages",
+    "description": "Freshly prepared chilled grape juice",
+    "price_paise": 7000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "170de11097984a552fe3",
+    "name": "PINEAPPLE JUICE",
+    "category": "Beverages",
+    "description": "Freshly pressed tropical pineapple juice",
+    "price_paise": 7000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "9d392c2faa0d0ddb4818",
+    "name": "WATERMELON",
+    "category": "Beverages",
+    "description": "Fresh and hydrating chilled watermelon juice",
+    "price_paise": 6000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "2d890641514563c009b3",
+    "name": "Sadya",
+    "category": "Rice & Biriyani",
+    "description": "Traditional Kerala vegetarian feast served with rice and curries",
+    "price_paise": 13000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "6b163311416a6bd83466",
+    "name": "Basmati rice kerala sadhya",
+    "category": "Rice & Biriyani",
+    "description": "Traditional Kerala vegetarian feast served with fragrant basmati rice and curries",
+    "price_paise": 18000,
+    "image": null,
+    "active": true
+  }
+]

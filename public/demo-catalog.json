@@ -1,0 +1,1262 @@
+[
+  {
+    "id": "63ba81f6230a8c9be051",
+    "name": "Idly Set",
+    "category": "Combos",
+    "description": "3 Idly + Vada",
+    "price_paise": 6000,
+    "image": "images/idliset.webp",
+    "active": true
+  },
+  {
+    "id": "3be68bddb3a1edc9f062",
+    "name": "Poori Masala Set",
+    "category": "Combos",
+    "description": "3 Poori + Bhaji",
+    "price_paise": 7500,
+    "image": "images/purimasala.webp",
+    "active": true
+  },
+  {
+    "id": "d50da4b78e1923ba01e1",
+    "name": "Chana Bhatura",
+    "category": "Combos",
+    "description": "2 Bhatura + Chana Masala",
+    "price_paise": 10000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "ff1838f260e8c8ef0ba8",
+    "name": "Appam Set",
+    "category": "Combos",
+    "description": "3 Appam + Kadala / Veg Kuruma",
+    "price_paise": 8000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "7ecc50066c6578dc4511",
+    "name": "Dosa Set",
+    "category": "Combos",
+    "description": "3 Dosa + Vada",
+    "price_paise": 6000,
+    "image": "images/setdosa.webp",
+    "active": true
+  },
+  {
+    "id": "67e1bb5e24c8a8f10b69",
+    "name": "Chappathi Set",
+    "category": "Combos",
+    "description": "3 Chappathi + Kadala / Veg Kuruma",
+    "price_paise": 8000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "ed18a275f471b2f99e49",
+    "name": "Idiyappam Set",
+    "category": "Combos",
+    "description": "Idiyappam + Kadala / Kuruma",
+    "price_paise": 8000,
+    "image": "images/idiyappamwcurry.webp",
+    "active": true
+  },
+  {
+    "id": "34dec2307e63b2ea4c3e",
+    "name": "Puttu Set",
+    "category": "Combos",
+    "description": "Puttu + Pappadam + Kadala / Kuruma",
+    "price_paise": 7500,
+    "image": "images/puttukadala.webp",
+    "active": true
+  },
+  {
+    "id": "e6af120a64fdf2c5d705",
+    "name": "Chemba Puttu Set",
+    "category": "Combos",
+    "description": "Chemba puttu + sides",
+    "price_paise": 9500,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "bb952d7444d510e0f672",
+    "name": "Porota Set",
+    "category": "Combos",
+    "description": "3 Porota + Kadala / Veg Kuruma",
+    "price_paise": 8500,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "d6a2ed858d055d903c3e",
+    "name": "Veg Meal",
+    "category": "Combos",
+    "description": "Rice + Sambar + Pickle + Thoran",
+    "price_paise": 8000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "258aa79d173c7d0ab12e",
+    "name": "Kerala Sadya (Red Rice)",
+    "category": "Combos",
+    "description": "Multi-course meal with red rice",
+    "price_paise": 12000,
+    "image": "images/sadhya.webp",
+    "active": true
+  },
+  {
+    "id": "93bd4572422ee9cd8d0a",
+    "name": "Kerala Sadya (Basmati White Rice)",
+    "category": "Combos",
+    "description": "Multi-course meal with basmati rice",
+    "price_paise": 15000,
+    "image": "images/sadhyabasmati.webp",
+    "active": true
+  },
+  {
+    "id": "82638c71f24754608c7b",
+    "name": "Veg Fried Rice",
+    "category": "Rice",
+    "description": "Wok-tossed rice with vegetables",
+    "price_paise": 11000,
+    "image": "images/friedrice.webp",
+    "active": true
+  },
+  {
+    "id": "5c1b504eb1e462e3436c",
+    "name": "Veg Schezwan Fried Rice",
+    "category": "Rice",
+    "description": "Spicy schezwan style fried rice",
+    "price_paise": 12500,
+    "image": "images/shezwanfriedrice.webp",
+    "active": true
+  },
+  {
+    "id": "caae010f895b98f24fea",
+    "name": "Paneer Fried Rice",
+    "category": "Rice",
+    "description": "Fried rice with paneer",
+    "price_paise": 19000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "3977422d8a76503e6b20",
+    "name": "Mushroom Fried Rice",
+    "category": "Rice",
+    "description": "Fried rice with mushroom",
+    "price_paise": 20000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "8578085f486454e2407f",
+    "name": "Veg Biryani",
+    "category": "Rice",
+    "description": "Fragrant rice with spices & veg",
+    "price_paise": 14000,
+    "image": "images/biryaniveg.webp",
+    "active": true
+  },
+  {
+    "id": "e5c77d93027eb520567e",
+    "name": "Paneer Biryani",
+    "category": "Rice",
+    "description": "Biryani with paneer",
+    "price_paise": 20000,
+    "image": "images/paneerbiryani.webp",
+    "active": true
+  },
+  {
+    "id": "f928c047574cd851da33",
+    "name": "Tomato Rice",
+    "category": "Rice",
+    "description": "Tomato & spice tempered rice",
+    "price_paise": 12000,
+    "image": "images/tomatorice.webp",
+    "active": true
+  },
+  {
+    "id": "de69832d3c24facf6d34",
+    "name": "Curd Rice",
+    "category": "Rice",
+    "description": "Cooling curd rice",
+    "price_paise": 12000,
+    "image": "images/curdrice.webp",
+    "active": true
+  },
+  {
+    "id": "65cffc52ae19abf4f946",
+    "name": "Lemon Rice",
+    "category": "Rice",
+    "description": "South Indian lemon rice",
+    "price_paise": 12000,
+    "image": "images/lemonrice.webp",
+    "active": true
+  },
+  {
+    "id": "e5cb24a263e20abd36d5",
+    "name": "Paneer Butter Masala",
+    "category": "Curries",
+    "description": "Creamy tomato gravy",
+    "price_paise": 16000,
+    "image": "images/pbm.webp",
+    "active": true
+  },
+  {
+    "id": "1a9275a33c702c6e5d98",
+    "name": "Paneer 65",
+    "category": "Curries",
+    "description": "Spicy fried paneer",
+    "price_paise": 18000,
+    "image": "images/paneer65.webp",
+    "active": true
+  },
+  {
+    "id": "520b7508b89e346a11b6",
+    "name": "Kadai Paneer",
+    "category": "Curries",
+    "description": "Kadai-style paneer curry",
+    "price_paise": 19000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "ba6a6f6c77c232385097",
+    "name": "Mushroom Masala",
+    "category": "Curries",
+    "description": "Mushroom in spiced gravy",
+    "price_paise": 18000,
+    "image": "images/mushroommasala.webp",
+    "active": true
+  },
+  {
+    "id": "ac7ced356b8f8b2b7b78",
+    "name": "Chilli Gobi",
+    "category": "Curries",
+    "description": "Spicy chilli gobi",
+    "price_paise": 11000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "f1ce4198903e95f3b8ce",
+    "name": "Gobi Manchurian",
+    "category": "Curries",
+    "description": "Indo-chinese gobi manchurian",
+    "price_paise": 11000,
+    "image": "images/gobiman.webp",
+    "active": true
+  },
+  {
+    "id": "8c04a9649619cf5d6e01",
+    "name": "Gobi 65",
+    "category": "Curries",
+    "description": "Crispy gobi 65",
+    "price_paise": 14000,
+    "image": "images/gobi65.webp",
+    "active": true
+  },
+  {
+    "id": "dccb5e6d18b7d32baed3",
+    "name": "Aloo Jeera",
+    "category": "Curries",
+    "description": "Potato + cumin stir fry",
+    "price_paise": 11000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "64340a5430bf47648cb6",
+    "name": "Dal Fry",
+    "category": "Curries",
+    "description": "Tempered dal",
+    "price_paise": 10000,
+    "image": "images/dalfry.webp",
+    "active": true
+  },
+  {
+    "id": "01051da339a0737ea868",
+    "name": "Tomato Fry",
+    "category": "Curries",
+    "description": "Tomato fry",
+    "price_paise": 9000,
+    "image": "images/tomatofry.webp",
+    "active": true
+  },
+  {
+    "id": "0298850bb5876817b318",
+    "name": "Kadala Curry",
+    "category": "Curries",
+    "description": "Black chickpea curry",
+    "price_paise": 4000,
+    "image": "images/kadala.webp",
+    "active": true
+  },
+  {
+    "id": "55f996767ec274f0c392",
+    "name": "Veg Kuruma",
+    "category": "Curries",
+    "description": "Kerala veg kuruma",
+    "price_paise": 4000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "f5651a2295486ed46064",
+    "name": "Chappathi (Single)",
+    "category": "Breads",
+    "description": "Soft chapathi",
+    "price_paise": 1500,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "8d2e51c8253019176ef0",
+    "name": "Kerala Porota (Single)",
+    "category": "Breads",
+    "description": "Flaky layered porota",
+    "price_paise": 1500,
+    "image": "images/porotta.webp",
+    "active": true
+  },
+  {
+    "id": "a88ba4f08bd8f74457a0",
+    "name": "Aloo Paratha",
+    "category": "Breads",
+    "description": "Stuffed potato paratha",
+    "price_paise": 10000,
+    "image": "images/alooparatha.webp",
+    "active": true
+  },
+  {
+    "id": "b817bb15a163159b16ce",
+    "name": "Paneer Paratha",
+    "category": "Breads",
+    "description": "Stuffed paneer paratha",
+    "price_paise": 13000,
+    "image": "images/paneerparatha.webp",
+    "active": true
+  },
+  {
+    "id": "d5dd13c11a0ba5a561e2",
+    "name": "Cheese Paratha",
+    "category": "Breads",
+    "description": "Cheese stuffed paratha",
+    "price_paise": 13000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "6f4a96a77102b4b402eb",
+    "name": "Idly (Single)",
+    "category": "Snacks",
+    "description": "Single idly",
+    "price_paise": 1500,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "1baadadb7597d710657c",
+    "name": "Poori (Single)",
+    "category": "Snacks",
+    "description": "Single poori",
+    "price_paise": 1500,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "8ca70e7522ef1be0a055",
+    "name": "Appam (Single)",
+    "category": "Snacks",
+    "description": "Single appam",
+    "price_paise": 1500,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "5f0a6c82e7b32f08a615",
+    "name": "Idiyappam (Single)",
+    "category": "Snacks",
+    "description": "Single idiyappam",
+    "price_paise": 1500,
+    "image": "images/idiyapam.webp",
+    "active": true
+  },
+  {
+    "id": "25811cd33e213ba4f646",
+    "name": "Puttu (Single)",
+    "category": "Snacks",
+    "description": "Single puttu",
+    "price_paise": 3500,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "f65c8d4f26f2ed439e58",
+    "name": "Chemba Puttu (Single)",
+    "category": "Snacks",
+    "description": "Single chemba puttu",
+    "price_paise": 5500,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "5079f51a5b16fbef83fc",
+    "name": "Masala Dosa",
+    "category": "Snacks",
+    "description": "Crispy dosa + potato masala",
+    "price_paise": 8000,
+    "image": "images/masaladosa.webp",
+    "active": true
+  },
+  {
+    "id": "75ef1085381a7ce75211",
+    "name": "Ghee Masala Dosa",
+    "category": "Snacks",
+    "description": "Masala dosa with ghee",
+    "price_paise": 10000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "4383762df462b09f3e39",
+    "name": "Ghee Roast",
+    "category": "Snacks",
+    "description": "Crispy roast with ghee",
+    "price_paise": 7000,
+    "image": "images/gheeroast.webp",
+    "active": true
+  },
+  {
+    "id": "c7e6edd9e730fa93bd8d",
+    "name": "Plain Roast",
+    "category": "Snacks",
+    "description": "Plain dosa/roast",
+    "price_paise": 6000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "bbf98c4704cb661bc43c",
+    "name": "Butter Dosa",
+    "category": "Snacks",
+    "description": "Dosa with butter",
+    "price_paise": 10000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "30bb1e832e813c4e0154",
+    "name": "Paneer Dosa",
+    "category": "Snacks",
+    "description": "Paneer dosa",
+    "price_paise": 12000,
+    "image": "images/paneerdosa.webp",
+    "active": true
+  },
+  {
+    "id": "26e12330023f0473871c",
+    "name": "Paneer Masala Dosa",
+    "category": "Snacks",
+    "description": "Paneer masala dosa",
+    "price_paise": 16000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "3a50f79504306a8b9b84",
+    "name": "Cheese Dosa",
+    "category": "Snacks",
+    "description": "Cheese dosa",
+    "price_paise": 12000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "c406069aaff158daa53b",
+    "name": "Onion Uttappam",
+    "category": "Snacks",
+    "description": "Onion uttappam",
+    "price_paise": 9000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "2d0edb55df50f7653e17",
+    "name": "Tomato Mix Veg Uttappam",
+    "category": "Snacks",
+    "description": "Tomato + mixed veg uttappam",
+    "price_paise": 11000,
+    "image": "images/uthappam.webp",
+    "active": true
+  },
+  {
+    "id": "752f0993149b5b8b48b6",
+    "name": "Pazham Pori",
+    "category": "Snacks",
+    "description": "Banana fritters",
+    "price_paise": 1500,
+    "image": "images/pazhampori.webp",
+    "active": true
+  },
+  {
+    "id": "025bfbd9d0bd7b039afd",
+    "name": "Uzhunnu Vada",
+    "category": "Snacks",
+    "description": "Urad dal vada",
+    "price_paise": 1200,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "f7f9ffdbd85a82f7d6d1",
+    "name": "Ela Ada",
+    "category": "Snacks",
+    "description": "Sweet ela ada",
+    "price_paise": 2000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "ef1ceab7c42e8381dcb3",
+    "name": "Kozhukkatta",
+    "category": "Snacks",
+    "description": "Steamed dumpling",
+    "price_paise": 1500,
+    "image": "images/kozhikatta.webp",
+    "active": true
+  },
+  {
+    "id": "abc8c3b8dad71dbb8729",
+    "name": "Veg Cutlet",
+    "category": "Snacks",
+    "description": "Crispy veg cutlet",
+    "price_paise": 1500,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "1ca9d8af1447e16a13da",
+    "name": "Veg Sandwich",
+    "category": "Snacks",
+    "description": "Toasted veg sandwich",
+    "price_paise": 7000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "8582fdcb0d57ec85f8c7",
+    "name": "Veg Burger",
+    "category": "Snacks",
+    "description": "Veg burger",
+    "price_paise": 8000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "1b86675129a58b756035",
+    "name": "Veg Roll",
+    "category": "Snacks",
+    "description": "Roll (Porota/Chappathi)",
+    "price_paise": 8000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "efab916720d6e0f5381c",
+    "name": "Veg Noodles",
+    "category": "Rice",
+    "description": "Wok-tossed veg noodles",
+    "price_paise": 11000,
+    "image": "images/vegnoodles.webp",
+    "active": true
+  },
+  {
+    "id": "54e056c81340c5ce1f6f",
+    "name": "Paneer Noodles",
+    "category": "Rice",
+    "description": "Noodles with paneer",
+    "price_paise": 20000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "c1116e579ab74ede17c7",
+    "name": "Mushroom Noodles",
+    "category": "Rice",
+    "description": "Noodles with mushroom",
+    "price_paise": 20000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "89002f5c55b585f30e29",
+    "name": "Pineapple Juice",
+    "category": "Beverages",
+    "description": "Fresh juice",
+    "price_paise": 7000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "09a3943f2fb7773fd0a3",
+    "name": "Orange Juice",
+    "category": "Beverages",
+    "description": "Fresh juice",
+    "price_paise": 7000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "9c8247560f0cd5ac49ff",
+    "name": "Apple Juice",
+    "category": "Beverages",
+    "description": "Fresh juice",
+    "price_paise": 10000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "585b0bffe8c53955a951",
+    "name": "Grape Juice",
+    "category": "Beverages",
+    "description": "Fresh juice",
+    "price_paise": 7000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "0d619d9b00ea672ff438",
+    "name": "Pomegranate Juice",
+    "category": "Beverages",
+    "description": "Fresh juice",
+    "price_paise": 9000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "25a5d560bacc905451f9",
+    "name": "Mosambi Juice",
+    "category": "Beverages",
+    "description": "Sweet lime juice",
+    "price_paise": 7000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "4f143e92220221183177",
+    "name": "Mango Juice",
+    "category": "Beverages",
+    "description": "Fresh mango juice",
+    "price_paise": 7000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "48f678ca6f179ed1e064",
+    "name": "Fresh Lime",
+    "category": "Beverages",
+    "description": "Refreshing lime",
+    "price_paise": 2500,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "a17b78c6b1f26f52ef0d",
+    "name": "Soda Lime",
+    "category": "Beverages",
+    "description": "Lime soda",
+    "price_paise": 3000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "460a0b6a374256a895b6",
+    "name": "Pineapple Lime",
+    "category": "Beverages",
+    "description": "Pineapple + lime",
+    "price_paise": 4000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "5410abf8236a844660e6",
+    "name": "Chocolate Shake",
+    "category": "Beverages",
+    "description": "Milkshake",
+    "price_paise": 9000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "d501cc7ac980690bc2b5",
+    "name": "Pista Shake",
+    "category": "Beverages",
+    "description": "Milkshake",
+    "price_paise": 9000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "67d475535db75e0e95cd",
+    "name": "Avocado Shake",
+    "category": "Beverages",
+    "description": "Milkshake",
+    "price_paise": 9000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "ff8fa2e0ca52efe1ae39",
+    "name": "Oreo Shake",
+    "category": "Beverages",
+    "description": "Milkshake",
+    "price_paise": 10000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "e10d6c8eee40dd04a445",
+    "name": "Strawberry Shake",
+    "category": "Beverages",
+    "description": "Milkshake",
+    "price_paise": 9000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "c925d39680e86e25fc52",
+    "name": "Mango Shake",
+    "category": "Beverages",
+    "description": "Milkshake",
+    "price_paise": 9000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "b9f4274a84c6f2f315c3",
+    "name": "Sharja Shake",
+    "category": "Beverages",
+    "description": "Sharja shake",
+    "price_paise": 7000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "5b653615bc13a12490ab",
+    "name": "Vanilla Shake",
+    "category": "Beverages",
+    "description": "Milkshake",
+    "price_paise": 8000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "bc86fe08f126351ff7cc",
+    "name": "Butterscotch Shake",
+    "category": "Beverages",
+    "description": "Milkshake",
+    "price_paise": 8000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "ea3c00c51f6500ffb85a",
+    "name": "Badam Shake",
+    "category": "Beverages",
+    "description": "Milkshake",
+    "price_paise": 8000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "f9a54840f1dddd0327f0",
+    "name": "Royal Falooda",
+    "category": "Beverages",
+    "description": "Falooda",
+    "price_paise": 12000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "8caa14eb9acda3a92b77",
+    "name": "Strawberry Falooda",
+    "category": "Beverages",
+    "description": "Falooda",
+    "price_paise": 12000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "89850daea5974bb23474",
+    "name": "Chocolate Falooda",
+    "category": "Beverages",
+    "description": "Falooda",
+    "price_paise": 12000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "e43a4fdd0a84e846495f",
+    "name": "Oreo Falooda",
+    "category": "Beverages",
+    "description": "Falooda",
+    "price_paise": 13000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "a588e81815bedf079bcc",
+    "name": "Blue Mojito",
+    "category": "Beverages",
+    "description": "Mojito",
+    "price_paise": 6000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "570cc055771d5bf77f4c",
+    "name": "Mint Lime Mojito",
+    "category": "Beverages",
+    "description": "Mojito",
+    "price_paise": 6000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "a3c2c0e5b9e00931da1c",
+    "name": "Blueberry Mojito",
+    "category": "Beverages",
+    "description": "Mojito",
+    "price_paise": 6000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "4bd26f95a0abdf6135b3",
+    "name": "Pineapple Mojito",
+    "category": "Beverages",
+    "description": "Mojito",
+    "price_paise": 6000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "ec66e63ed265b29f0f50",
+    "name": "Black Currant Mojito",
+    "category": "Beverages",
+    "description": "Mojito",
+    "price_paise": 6000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "311cd9ae9ac4bcf7ab63",
+    "name": "Green Apple Mojito",
+    "category": "Beverages",
+    "description": "Mojito",
+    "price_paise": 6000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "acdf3b03e31f0d74f943",
+    "name": "Tea",
+    "category": "Beverages",
+    "description": "Tea",
+    "price_paise": 1500,
+    "image": "images/chai.webp",
+    "active": true
+  },
+  {
+    "id": "5ed413685eac94e860ae",
+    "name": "Coffee",
+    "category": "Beverages",
+    "description": "Coffee",
+    "price_paise": 2000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "3b3f8618efb82cd4ab56",
+    "name": "Cold Coffee",
+    "category": "Beverages",
+    "description": "Cold coffee",
+    "price_paise": 6000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "993639bb0eaead7450c4",
+    "name": "Green Tea",
+    "category": "Beverages",
+    "description": "Green tea",
+    "price_paise": 2500,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "7a5dc519728de66ad2b2",
+    "name": "Black Tea",
+    "category": "Beverages",
+    "description": "Black tea",
+    "price_paise": 1000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "9a8275aac1341022bd0a",
+    "name": "Black Coffee",
+    "category": "Beverages",
+    "description": "Black coffee",
+    "price_paise": 1500,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "4ca338f0e32b1034d65e",
+    "name": "Ginger Tea",
+    "category": "Beverages",
+    "description": "Ginger tea",
+    "price_paise": 2500,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "20b81829e6ad843f2083",
+    "name": "Lemon Tea",
+    "category": "Beverages",
+    "description": "Lemon tea",
+    "price_paise": 1500,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "b6567a401e8d5c634a75",
+    "name": "Rose Milk",
+    "category": "Beverages",
+    "description": "Rose milk",
+    "price_paise": 3000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "9192ff713c96609143c5",
+    "name": "Badam Milk",
+    "category": "Beverages",
+    "description": "Badam milk",
+    "price_paise": 3000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "1ef3219fc1f2a1c93eb7",
+    "name": "Filter Coffee",
+    "category": "Beverages",
+    "description": "Traditional strong coffee",
+    "price_paise": 4000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "812baa9be8e90e256762",
+    "name": "Idli Sambar",
+    "category": "Idli/Puttu",
+    "description": "Steamed rice cakes",
+    "price_paise": 6000,
+    "image": "images/idliesambar.webp",
+    "active": true
+  },
+  {
+    "id": "28a44239c7e930ca3796",
+    "name": "Uttappam",
+    "category": "Dosa",
+    "description": "Thick savory rice pancake",
+    "price_paise": 10000,
+    "image": "images/uthappam.webp",
+    "active": true
+  },
+  {
+    "id": "9ab4a6f553d7eaeac615",
+    "name": "Podi Dosa",
+    "category": "Dosa",
+    "description": "Crispy crepe coated with spicy podi",
+    "price_paise": 12000,
+    "image": "images/podidosa.webp",
+    "active": true
+  },
+  {
+    "id": "a5facd77283e32fe77ef",
+    "name": "Dosa Single",
+    "category": "Dosa",
+    "description": "Single traditional plain rice crepe",
+    "price_paise": 1500,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "320b064fca92e9982c46",
+    "name": "Podi Masala Dosa",
+    "category": "Dosa",
+    "description": "Spiced podi crepe with potato filling",
+    "price_paise": 13000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "2662edeab0a12f35ece1",
+    "name": "Podi Uttappam",
+    "category": "Dosa",
+    "description": "Thick pancake topped with spiced podi",
+    "price_paise": 10000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "cc5a78df80d3457dee0a",
+    "name": "Ghee Uttappam",
+    "category": "Dosa",
+    "description": "Thick savory pancake cooked in ghee",
+    "price_paise": 10000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "2d8f5cfe2a10931761e0",
+    "name": "Mushroom Masala Dosa",
+    "category": "Dosa",
+    "description": "Crispy crepe with spiced mushrooms",
+    "price_paise": 17000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "68f4e108a030380caca6",
+    "name": "Ghee Podi Masala",
+    "category": "Dosa",
+    "description": "Ghee roast crepe with spicy podi and potato",
+    "price_paise": 14500,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "453bcc3504e0ee96f554",
+    "name": "Ghee Podi Idli",
+    "category": "Idli/Puttu",
+    "description": "Steamed rice cakes tossed in ghee and spiced podi",
+    "price_paise": 8000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "b074790cf0cc0dd27078",
+    "name": "Schezwan Paneer Dosa",
+    "category": "Dosa",
+    "description": "Spicy Indo-Chinese crepe filled with paneer",
+    "price_paise": 15000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "9ef2356176934d53e756",
+    "name": "Mushroom Pepper Fry",
+    "category": "Chinese",
+    "description": "Tender mushrooms tossed in freshly crushed black pepper",
+    "price_paise": 18000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "fbec42b6ae02669c12dc",
+    "name": "Schezwan Noodles",
+    "category": "Chinese",
+    "description": "Spicy stir-fried noodles with fiery schezwan sauce",
+    "price_paise": 15000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "cce0816a73426e52c6df",
+    "name": "Paneer Pepper Fry",
+    "category": "Chinese",
+    "description": "Cottage cheese cubes tossed in spicy black pepper",
+    "price_paise": 18000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "bd0f73bd13df976d2a90",
+    "name": "Mixed Fried Rice",
+    "category": "Chinese",
+    "description": "Aromatic fried rice loaded with mixed vegetables",
+    "price_paise": 20000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "0eaaf51ebd8fe8fee81d",
+    "name": "Paneer Manchurian",
+    "category": "Chinese",
+    "description": "Crispy paneer cubes in tangy Indo-Chinese sauce",
+    "price_paise": 14000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "78127edde51d43ba8a48",
+    "name": "Jeera Rice",
+    "category": "Rice & Biriyani",
+    "description": "Fragrant basmati rice tempered with cumin seeds",
+    "price_paise": 12000,
+    "image": "images/jeerarice.webp",
+    "active": true
+  },
+  {
+    "id": "1614ed0bbec8d184a1b2",
+    "name": "White Rice",
+    "category": "Rice & Biriyani",
+    "description": "Steamed plain rice",
+    "price_paise": 5000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "6ea36c665c2f6eb6e905",
+    "name": "Mushroom Biriyani",
+    "category": "Rice & Biriyani",
+    "description": "Fragrant spiced basmati rice cooked with tender mushrooms",
+    "price_paise": 22000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "4fc335b9f3af9828efbf",
+    "name": "Chilli Parotta",
+    "category": "Breads",
+    "description": "Shredded flaky parotta tossed in spicy chilli sauce",
+    "price_paise": 12000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "5a514dae4126e2747aac",
+    "name": "Cheese Masala Dosa",
+    "category": "Dosa",
+    "description": "Crispy rice crepe with spiced potato and melted cheese",
+    "price_paise": 14000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "709313885e4b9e2ac80e",
+    "name": "Kothu Parotta",
+    "category": "Breads",
+    "description": "Shredded layered parotta tossed with spiced vegetables",
+    "price_paise": 12000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "55403780c469a5499145",
+    "name": "Ghee Chapati",
+    "category": "Breads",
+    "description": "Soft whole wheat flatbread brushed with ghee",
+    "price_paise": 2000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "d78af7d38c1de4d34262",
+    "name": "Aloo Cheese Paratha",
+    "category": "Breads",
+    "description": "Stuffed flatbread with spiced potato and melted cheese",
+    "price_paise": 15000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "6f71d537f0f34d2ff10d",
+    "name": "Sambar Bowl",
+    "category": "Curry",
+    "description": "Hearty lentil and vegetable stew flavored with tamarind",
+    "price_paise": 4000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "a51bbcb12197dc459904",
+    "name": "Chilli Gobi Dry",
+    "category": "Chinese",
+    "description": "Crisp cauliflower florets tossed dry in chilli seasoning",
+    "price_paise": 14000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "8df87eca34f869d7dba7",
+    "name": "Chilli Paneer",
+    "category": "Chinese",
+    "description": "Paneer cubes tossed with peppers, onions, and spicy sauce",
+    "price_paise": 20000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "777e44bb3006d16fbe5f",
+    "name": "Aloo Gobi",
+    "category": "Curry",
+    "description": "Classic potato and cauliflower curry cooked with spices",
+    "price_paise": 13000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "24be144aae1138144364",
+    "name": "Gobi Fry",
+    "category": "Curry",
+    "description": "Crispy spiced fried cauliflower florets",
+    "price_paise": 13000,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "cc2bb2ab9a0264e28a8f",
+    "name": "Boost",
+    "category": "Beverages",
+    "description": "Hot malted chocolate energy drink",
+    "price_paise": 2500,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "3ffc485215de5850677d",
+    "name": "Milk",
+    "category": "Beverages",
+    "description": "Fresh warm steamed milk",
+    "price_paise": 2500,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "632a8b20242aad184bef",
+    "name": "Horlicks",
+    "category": "Beverages",
+    "description": "Comforting warm malted milk beverage",
+    "price_paise": 2500,
+    "image": null,
+    "active": true
+  },
+  {
+    "id": "9d392c2faa0d0ddb4818",
+    "name": "Watermelon Juice",
+    "category": "Beverages",
+    "description": "Fresh and hydrating chilled watermelon juice",
+    "price_paise": 6000,
+    "image": null,
+    "active": true
+  }
+]

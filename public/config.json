@@ -2,5 +2,6 @@
   "supabaseUrl": "https://uolflinxlvnppykwndrq.supabase.co",
   "supabasePublishableKey": "sb_publishable_tr4Vd1XAOYEs68YeHQAw1A_lhendtjW",
   "turnstileSiteKey": "",
-  "authChannel": "phone"
+  "authChannel": "phone",
+  "demoMode": true
 }

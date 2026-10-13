@@ -74,3 +74,9 @@ on conflict(user_id) do update set role='manager',active=true;
 All staff reads use role-checked RPCs. Direct table access is restricted to a customer's own orders. Action permissions are checked on every request; hiding UI buttons is not the security boundary. Polling runs every 15 seconds. On a read failure, tickets clear and an error appears. No sound notifications, printing, walk-in order entry, payment handling or automatic calls are included yet. The ordering status switch does not replace the initial OTP/CAPTCHA setup checks.
 
 Do not enable live ordering until migration 002, email/SMS delivery, Turnstile, MFA enrollment and staff workflow have been verified in the hosted project. Deploying the app alone does not apply SQL migrations.
+
+## Interactive demo
+
+config.json enables demoMode: backend initialization is skipped entirely. Tickets are browser-local and never sent to Supabase. Use sample names and notes only. The demo role selector is not authentication. Counter, kitchen and manager workflows can be explored on the same browser/origin. Real staff account assignment requires production authentication.
+
+The demo merges both menus into 140 unique dishes; marketing prices take precedence for overlaps. Live database prices remain unchanged. All 41 photos are in the gallery. Disable demoMode only after real authentication and staff setup have been verified.

@@ -80,3 +80,7 @@ Do not enable live ordering until migration 002, email/SMS delivery, Turnstile, 
 config.json enables demoMode: backend initialization is skipped entirely. Tickets are browser-local and never sent to Supabase. Use sample names and notes only. The demo role selector is not authentication. Counter, kitchen and manager workflows can be explored on the same browser/origin. Real staff account assignment requires production authentication.
 
 The demo merges both menus into 140 unique dishes; marketing prices take precedence for overlaps. Live database prices remain unchanged. All 41 photos are in the gallery. Disable demoMode only after real authentication and staff setup have been verified.
+
+## Loading and responsive behavior
+Customer JS loads independently of staff screens and Supabase. Food photos start loading only after the window load event and when within 120px of the viewport. Low-data mode (automatic for Save-Data/2G where supported, or manual) prevents new photo downloads. Brand fonts load after the page with system font fallbacks. Mobile users have a fixed bag shortcut and 44px quantity controls. Layout checks cover 320, 375, 768, 1024, 1440 and 1920px; these are representative checks, not a guarantee for every device.
+
